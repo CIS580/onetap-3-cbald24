@@ -28,3 +28,17 @@ EntityManager.prototype.addEntity = function(entity){
         }
     }
 }
+
+EntityManager.prototype.updateEntity = function(entity)
+{
+    
+}
+
+EntityManager.prototype.collide = function(callback)
+{
+    var self = this.cells.forEach(function(cell, i) {
+        cell
+    }
+    )
+}
+

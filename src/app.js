@@ -43,6 +43,11 @@ function update(elapsedTime) {
   // TODO: Update the game objects
 }
 
+
+entities.collide(function(entitiy1, entitiy2)
+{
+  
+})
 /**
   * @function render
   * Renders the current game state into a back buffer.
